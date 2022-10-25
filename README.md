@@ -3,8 +3,8 @@ I was developing this app in
 ![image](https://user-images.githubusercontent.com/52175588/197752446-bd991477-3772-427b-a04c-f49dcdba1730.png)
 The app currently is working with ID
 you have to:
-- run the backend with the readme file
-- run the front end with the readme file
+- run the backend with the readme file [backend](https://github.com/abcussi/api)
+- run the front end with the readme file [frontend](https://github.com/abcussi/front-end)
 - be sure of the id of product_type
 - be sure of the id of product
 - go to [loc](http://localhost:4000/) and put the following list
